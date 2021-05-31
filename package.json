@@ -34,7 +34,7 @@
     "@govtechsg/open-attestation": "^4.4.0",
     "@govtechsg/opencerts-verify": "^3.0.0",
     "aws-sdk": "^2.590.0",
-    "lodash": "^4.17.13",
+    "lodash": "^4.17.21",
     "middy": "^0.36.0",
     "node-fetch": "^2.6.1",
     "nodemailer": "^4.6.8",
